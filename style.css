@@ -280,7 +280,8 @@ nav.navbar {
 
 @media (min-width: 1824px) {
 	.skyline-img-reg {
-		max-height: 800px;
+		max-height: 1000px;
+		max-width: inherit;
 		margin: auto;
 	}
 	
